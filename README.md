@@ -1,5 +1,5 @@
 # pensamentoComputacional1B
-Curso pensamento computacional.
+* Curso pensamento computacional.
 Turma 1B.
 Professsor Wellinton.
 Equipe Rubia e Kamilly.
