@@ -1,0 +1,29 @@
+
+           body{
+          			  background: #FFEFD5
+        		}
+            h1 {
+                    font-size: 55px;
+                    text-align: center;
+                    color: #FF9A32;
+                }
+             #inicio {
+                    background: #FFC284;
+                }
+                    p {
+                        font-size: 18px;
+				text-align: left;
+				color: #659221;
+
+                    }
+             #produtos { 
+				background: #FFC284;
+			}
+                h2{
+				font-size: 50px;
+				text-align: center;
+				color: #659221;
+                }
+              #produtos {
+                  text-align: center;
+              }
