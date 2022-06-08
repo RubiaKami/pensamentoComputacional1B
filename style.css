@@ -1,27 +1,26 @@
-           body{
+        body{
           			  background: #FFEFD5
         		}
-            h1 {
+        h1 {
                     font-size: 55px;
                     text-align: center;
-                    color: #FF9A32;
+                    color: #941e32;
                 }
-             #inicio {
+        #inicio {
                     background: #FFC284;
                 }
                     p {
                         font-size: 18px;
 				text-align: left;
-				color: #659221;
+				color: #ca475d;
 
                     }
-             #produtos { 
+        #produtos { 
 				background: #FFC284;
-		     		text-align: center;
+                text-align: center;
 			}
                 h2{
 				font-size: 50px;
 				text-align: center;
-				color: #659221;
+				color: #941e32;
                 }
-          
