@@ -13,7 +13,6 @@
                         font-size: 18px;
 				text-align: left;
 				color: #ca475d;
-
                     }
         #produtos { 
 				background: #FFC284;
@@ -27,3 +26,9 @@
         #beneficios { 
 				background: #FFC284;
                 text-align: center;
+                }
+        h3{
+                font-size: 50px;
+				text-align: center;
+				color: #941e32;
+        }
