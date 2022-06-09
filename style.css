@@ -17,6 +17,7 @@
         #produtos { 
 				background: #FFC284;
                 text-align: center;
+                border: 5px dashed #D2691E;
 			}
                 h2{
 				font-size: 50px;
@@ -26,9 +27,13 @@
         #beneficios { 
 				background: #FFC284;
                 text-align: center;
+                border: 5px dashed #D2691E;
                 }
         h3{
                 font-size: 50px;
 				text-align: center;
 				color: #941e32;
+                }
+        .itens {
+            color:#ca475d;
         }
