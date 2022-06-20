@@ -17,7 +17,7 @@
         p       {
                 font-size: 18px;
 				text-align: left;
-				color: #ca475d;
+				color: #94283a;
                 padding-left: 10%;
                 padding-right: 10%;
                 }
@@ -37,10 +37,6 @@
 				text-align: center;
 				color: #941e32;
                 }
-        #Pena {
-                margin-left: 10px;
-                margin-right: 10px;
-        }
         #beneficios { 
 				background: #FFC284;
                 text-align: center;
@@ -55,8 +51,8 @@
 				color: #941e32;
             }
         .itens {
-            color:#ca475d;
+            color:#94283a;
             }
         .bene {
-            color:#ca475d;
+            color:#94283a;
             }
