@@ -22,8 +22,11 @@
                 padding-right: 10%;
                 }
         .Orfeu {
+                margin-top: 10px;
+                margin-bottom: 10px;
                 margin-left: 25%;
                 margin-right: 25%;
+                border: 5px dotted #D2691E;
             }
         #produtos { 
 				background: #FFC284;
@@ -51,8 +54,11 @@
 				color: #941e32;
             }
         .itens {
-            color:#94283a;
+                color:#94283a;
             }
         .bene {
-            color:#94283a;
+                color:#94283a;
             }
+        .Orpheu {
+                border: 5px outset #D2691E;  
+        }
