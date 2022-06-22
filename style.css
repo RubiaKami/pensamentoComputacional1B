@@ -62,3 +62,16 @@
         .Orpheu {
                 border: 5px outset #D2691E;  
         }
+        h4 {
+                font-size: 55px;
+                text-align: center;
+                color: #941e32;
+            }
+        #cadastro {
+				background: #FFC284;
+                text-align: center;
+                border: 5px dashed #D2691E;
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-bottom: 10px;
+        }
