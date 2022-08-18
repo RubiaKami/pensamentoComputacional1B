@@ -1,7 +1,7 @@
 body{
           			background: #FFEFD5;
         		    border: 12px double #800000;
-            }
+        }
         #beneficios { 
 				background: #FFC284;
                 text-align: center;
@@ -9,12 +9,15 @@ body{
                 margin-left: 10px;
                 margin-right: 10px;
                 margin-bottom: 10px;
-            }
+        }
         h1{
                 font-size: 50px;
 				text-align: center;
 				color: #941e32;
-            }
+        }
         .bene {
                 color:#94283a;
-            }
+        }
+	.Orpheu {
+                border: 5px outset #D2691E;  
+        }
