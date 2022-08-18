@@ -7,6 +7,10 @@ body{
                     text-align: center;
                     color: #941e32;
             }
+        #comeco {
+                color: #ff7b00;
+                font-size: 25px;
+        }
         #inicio {
                     border: 5px dashed #D2691E;
                     background: #FFC284;
@@ -28,66 +32,3 @@ body{
                 margin-right: 25%;
                 border: 5px dotted #D2691E;
             }
-        #produtos { 
-				background: #FFC284;  
-                text-align: center;
-                border: 5px dashed #D2691E;
-                margin-left: 10px;
-                margin-right: 10px;
-			}
-                h2{
-				font-size: 50px;
-				text-align: center;
-				color: #941e32;
-                }
-        #beneficios { 
-				background: #FFC284;
-                text-align: center;
-                border: 5px dashed #D2691E;
-                margin-left: 10px;
-                margin-right: 10px;
-                margin-bottom: 10px;
-            }
-        h3{
-                font-size: 50px;
-				text-align: center;
-				color: #941e32;
-            }
-        .itens {
-                color:#94283a;
-            }
-        .bene {
-                color:#94283a;
-            }
-        .Orpheu {
-                border: 5px outset #D2691E;  
-        }
-        h4 {
-                font-size: 55px;
-                text-align: center;
-                color: #941e32;
-            }
-        #cadastro {
-				background: #FFC284;
-                text-align: center;
-                border: 5px dashed #D2691E;
-                margin-left: 10px;
-                margin-right: 10px;
-                margin-bottom: 10px;
-                
-        }
-        .info {
-                color: #941e32;
-                text-align: center;
-                padding-left: 10px;
-                padding-right: 10px;
-                padding-bottom: 10px;
-                box-shadow: #D2691E;
-        }
-        .botao {
-            font-size: 2.5em;
-            background: #ffa784;
-            color: #bb4444;
-            text-shadow: 3px 3px 3px #6b1616;
-            box-shadow: 4px 4px 4px #6b1616;
-        }
