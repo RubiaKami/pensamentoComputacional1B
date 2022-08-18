@@ -13,6 +13,13 @@ body{
                 margin-left: 20px;
                 margin-right: 20px;
         }
+        p {
+            font-size: 18px;
+	  text-align: center;
+	  color:#941e32;
+            padding-left: 10%;
+            padding-right: 10%;
+        }
         #urubu {
             font-size: 25px;
             color:#941e32;
