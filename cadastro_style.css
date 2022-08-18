@@ -2,3 +2,32 @@ body{
           			background: #FFEFD5;
         		    border: 12px double #800000;
             }
+        h1 {
+                font-size: 55px;
+                text-align: center;
+                color: #941e32;
+        }
+        #cadastro {
+				background: #FFC284;
+                text-align: center;
+                border: 5px dashed #D2691E;
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-bottom: 10px;
+                
+        }
+        .info {
+                color: #941e32;
+                text-align: center;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-bottom: 10px;
+                box-shadow: #D2691E;
+        }
+        .botao {
+            font-size: 2.5em;
+            background: #ffa784;
+            color: #bb4444;
+            text-shadow: 3px 3px 3px #6b1616;
+            box-shadow: 4px 4px 4px #6b1616;
+        }
