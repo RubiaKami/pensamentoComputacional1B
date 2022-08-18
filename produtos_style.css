@@ -2,7 +2,11 @@ body{
           			background: #FFEFD5;
         		    border: 12px double #800000;
 		}
-		#produtos { 
+        #comeco {
+                color: #ff7b00;
+                font-size: 25px;
+		}
+	#produtos { 
 		background: #FFC284;  
                 text-align: center;
                 border: 5px dashed #D2691E;
@@ -10,15 +14,15 @@ body{
                 margin-right: 10px;
                 margin-top: 10px;
 		}
-                h1{
+         h1{
 		font-size: 50px;
 		text-align: center;
 		color: #941e32;
                 }
-		.itens {
+	.itens {
                 color:#94283a;
 		font-size: 25px;
            	}
-		.itens_img {
+	.itens_img {
 		border: 5px dashed #D2691E;
 		}
