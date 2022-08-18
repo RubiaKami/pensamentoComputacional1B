@@ -9,7 +9,9 @@ body{
             }
         #comeco {
                 color: #ff7b00;
-                font-size: 25px;
+                font-size: 25px;                    
+                margin-left: 20px;
+                margin-right: 20px;
         }
         #inicio {
                     border: 5px dashed #D2691E;
