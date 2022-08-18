@@ -1,1 +1,11 @@
-
+        h1 {
+                    font-size: 55px;
+                    text-align: center;
+                    color: #941e32;
+            }
+        #comeco {
+                color: #ff7b00;
+                font-size: 25px;                    
+                margin-left: 20px;
+                margin-right: 20px;
+        }
