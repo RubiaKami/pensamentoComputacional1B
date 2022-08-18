@@ -2,6 +2,12 @@ body{
           			background: #FFEFD5;
         		    border: 12px double #800000;
         }
+        #comeco {
+                color: #ff7b00;
+                font-size: 25px;                    
+                margin-left: 20px;
+                margin-right: 20px;
+        }
         #beneficios { 
 				background: #FFC284;
                 text-align: center;
