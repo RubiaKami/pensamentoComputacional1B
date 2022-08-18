@@ -19,3 +19,6 @@ body{
                 color:#94283a;
 		font-size: 25px;
            	}
+		.itens_img {
+			 border: 5px dashed #D2691E;
+		}
