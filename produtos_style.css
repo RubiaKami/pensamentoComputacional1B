@@ -1,4 +1,8 @@
-        #produtos { 
+body{
+          			background: #FFEFD5;
+        		    border: 12px double #800000;
+			}
+		#produtos { 
 				background: #FFC284;  
                 text-align: center;
                 border: 5px dashed #D2691E;
@@ -9,4 +13,4 @@
 				font-size: 50px;
 				text-align: center;
 				color: #941e32;
-                }
+                	}
